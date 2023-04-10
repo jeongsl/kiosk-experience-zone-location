@@ -1,0 +1,1 @@
+# selection-of-kiosk-experience-zone-location
