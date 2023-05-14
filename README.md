@@ -9,4 +9,5 @@
 |출처|데이터 명|데이터 정의|
 |------|---|---|
 |스마트 서울맵|[키오스크 체험존](https://map.seoul.go.kr/smgis2/short/6Na3o)|서울시 키오스크 체험존|
-|국토정보플랫폼|[격자별/연령별 인구](https://map.ngii.go.kr/ms/map/NlipMap.do)|강북구, 노원구, 도봉구, 동대문구, 은평구 격자별 60대~100세 이상 인구|
+|국토정보플랫폼|[격자별/연령별 인구](https://map.ngii.go.kr/ms/map/NlipMap.do)|강북구, 노원구, 도봉구, 동대문구, 은평구 격자별 50대 이상 인구|
+|KOSIS 국가통계포털|[행정구역(읍면동)별/5세별 주민등록인구](https://kosis.kr/statHtml/statHtml.do?orgId=101&tblId=DT_1B04005N&conn_path=I2)|서울시 50세 이상 인구|
