@@ -13,3 +13,4 @@
 |KOSIS 국가통계포털|[행정구역(읍면동)별/5세별 주민등록인구](https://kosis.kr/statHtml/statHtml.do?orgId=101&tblId=DT_1B04005N&conn_path=I2)|서울시 50세 이상 인구|
 |서울 열린데이터 광장|[통계지역경계(집계구,행정구역)](https://data.seoul.go.kr/dataVisual/seoul/seoulLivingPopulation.do)|서울시 구별, 동별 경계|
 |서울 열린데이터 광장|[서울시 경로당 정보](http://data.seoul.go.kr/dataList/OA-15052/S/1/datasetView.do)|서울시 경로당 이름, 주소, 위치|
+|서울 열린데이터 광장|[서울시 공공도서관 현황정보](http://data.seoul.go.kr/dataList/OA-15480/S/1/datasetView.do)|서울시 공공도서관 이름, 주소, 위치|
