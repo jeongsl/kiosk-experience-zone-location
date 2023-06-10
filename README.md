@@ -14,3 +14,4 @@
 |서울 열린데이터 광장|[통계지역경계(집계구,행정구역)](https://data.seoul.go.kr/dataVisual/seoul/seoulLivingPopulation.do)|서울시 구별, 동별 경계|
 |서울 열린데이터 광장|[서울시 경로당 정보](http://data.seoul.go.kr/dataList/OA-15052/S/1/datasetView.do)|서울시 경로당 이름, 주소, 위치|
 |서울 열린데이터 광장|[서울시 공공도서관 현황정보](http://data.seoul.go.kr/dataList/OA-15480/S/1/datasetView.do)|서울시 공공도서관 이름, 주소, 위치|
+|서울 열린데이터 광장|[서울시 사회복지시설(노인의료복지시설) 목록](http://data.seoul.go.kr/dataList/OA-20413/S/1/datasetView.do)|서울시 노인의료복지시설 이름, 주소|
