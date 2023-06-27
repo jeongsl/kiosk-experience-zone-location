@@ -20,4 +20,4 @@
 |서울 열린데이터 광장|서울시 공공체육시설 현황(2019)|서울시 공공체육시설 이름, 주소, 위치|
 |서울 열린데이터 광장|서울시 주민자치센터 정보|서울시 주민자치센터 이름, 주소|
 |디지털배움터|[디지털배움터](https://www.xn--2z1bw8k1pjz5ccumkb.kr/edc/crse/place.do?sch_area_cd=101&sch_signgu_cd=&sch_oper_sttus_se_cd=&sch_edc_plc_se_cd=&sch_edc_place_nm=)|서울시 디지털배움터 이름, 주소, 이용정원, 교육과정|
-|NIA 한국지능정보사회지능원|[2020 디지털정보격차 실태조사](https://www.nia.or.kr/site/nia_kor/ex/bbs/List.do?cbIdx=81623)|성별, 연령별 디지털정보화 수준|
+|NIA 한국지능정보사회지능원|[2020 디지털정보격차 실태조사]([https://www.nia.or.kr/site/nia_kor/ex/bbs/List.do?cbIdx=81623](https://www.nia.or.kr/site/nia_kor/ex/bbs/View.do?cbIdx=81623&bcIdx=23112&parentSeq=23112)https://www.nia.or.kr/site/nia_kor/ex/bbs/View.do?cbIdx=81623&bcIdx=23112&parentSeq=23112)|성별, 연령별 디지털정보화 수준|
