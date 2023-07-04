@@ -3,6 +3,7 @@
 
 ## 분석 목적
 키오스크 체험존을 최적의 입지에 배치하여 디지털 취약계층인 고령층의 정보격차를 해소하고 디지털 기기의 접근성 및 활용능력을 향상시키기 위함
+![image](https://github.com/jeongsl/kiosk-experience-zone-location/assets/128488488/a062eec2-e2e1-4bc7-9a68-b50d58632e77)
 
 
 ## 분석 데이터
@@ -29,3 +30,10 @@
 
 
 ## 분석 결과
+![image](https://github.com/jeongsl/kiosk-experience-zone-location/assets/128488488/44af1c6f-923c-4d16-b4a8-bd6dac0c63d8)
+![image](https://github.com/jeongsl/kiosk-experience-zone-location/assets/128488488/989021c6-f68c-4444-91fb-c990e3c2b9fa)
+![image](https://github.com/jeongsl/kiosk-experience-zone-location/assets/128488488/e79e648e-e182-4eec-96aa-ff810c090560)
+![image](https://github.com/jeongsl/kiosk-experience-zone-location/assets/128488488/3c6bf10f-ef44-4340-bc26-e48336f72271)
+![image](https://github.com/jeongsl/kiosk-experience-zone-location/assets/128488488/0d1dcdf4-3cef-4e4d-aa04-9b053c6bc2a0)
+![image](https://github.com/jeongsl/kiosk-experience-zone-location/assets/128488488/9048e8fe-67e9-41ed-9464-335550666556)
+![image](https://github.com/jeongsl/kiosk-experience-zone-location/assets/128488488/b57401a4-f0a5-429b-a818-84060f217270)
