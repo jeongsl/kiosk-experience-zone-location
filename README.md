@@ -25,7 +25,7 @@
 
 
 ## 분석 방법
-* R-studio : 상관분석, 선형회귀분석
+* R-studio : Linear Regression model
 * Python : MCLP(Maximal Covering Location Problems)
 
 
